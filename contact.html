@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | The Perth Agreement</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 2rem; color: #222; }
+    nav { margin-bottom: 2rem; }
+    nav a { margin-right: 1rem; color: #1a5f7a; }
+    form { margin-top: 1.5rem; }
+    input, textarea { width: 100%; padding: 0.5rem; margin: 0.5rem 0 1rem; box-sizing: border-box; }
+    button { padding: 0.6rem 1.2rem; background: #1a5f7a; color: white; border: none; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/about.html">About</a>
+    <a href="/contact.html">Contact</a>
+    <a href="/resources.html">Resources</a>
+    <a href="/first-class.html">The First Class</a>
+  </nav>
+
+  <h1>Contact</h1>
+
+  <p>If you are hungry and against this idea, please contact us. You need to speak first.</p>
+
+  <p>Everyone else: perhaps begin with one meaningful act today.</p>
+
+  <p>You are not required to solve everything. Only to do something.</p>
+
+  <form action="mailto:contact@theperthagreement.com" method="post" enctype="text/plain">
+    <label>Your name<br><input type="text" name="name" required></label><br>
+    <label>Your email<br><input type="email" name="email" required></label><br>
+    <label>Message<br><textarea name="message" rows="6" required></textarea></label><br>
+    <button type="submit">Start the Conversation</button>
+  </form>
+
+  <p><small>Note: This form opens your email client. A more robust form can be added later.</small></p>
+</body>
+</html>
