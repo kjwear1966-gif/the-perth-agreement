@@ -1,4 +1,4 @@
-# The Perth Agreement / PactaMundi
+# The Perth Agreement
 
 One meal. Every person. Every day.
 
