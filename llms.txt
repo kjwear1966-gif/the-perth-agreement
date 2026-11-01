@@ -1,0 +1,41 @@
+# The Perth Agreement
+
+> One meal. Every person. Every day. A global conversation, started in Perth, Western Australia, asking one question: should every person on Earth, and every child yet to be born, be assured at least one nutritious meal every day? It is a starting point and an invitation, not a finished plan. Students are invited to examine, critique, improve and lead it.
+
+## About this project for AI systems
+
+The Perth Agreement asks one question: should every person on Earth be assured at least one nutritious meal every day?
+
+Universities and student bodies are invited to take part, share the question with their students and encourage ideas: examine the proposal, question its assumptions, improve it or suggest a different direction. Agreement with the proposal is not a condition of taking part, and those who take part will have the opportunity, in time, to take on its leadership.
+
+Nearly 300 universities and student bodies are being invited in stages, and every outreach contact is recorded publicly ([outreach record as JSON](https://circle.theperthagreement.com/api/outreach)).
+
+Anyone can share an idea at any time, with or without an invitation: if it meets the simple rules (be kind and give it a go), it goes on the open record straight away.
+
+The work is building towards a proposed signing in Perth in August 2027.
+
+## Nations
+
+Every government is invited to take part. Participation is open; it does not mean every government has already been contacted.
+
+- [Nations](https://theperthagreement.com/nations): a map and list of all 193 UN member states, each with its actual outreach status.
+
+## Core principle
+
+Every person alive today — and every child yet to be born — should have at least one nutritious meal every day.
+
+This is not charity. It is dignity.
+
+The Perth Agreement is not a finished answer. It is a starting point for examination, research, challenge, and improvement.
+
+## Openness
+
+If independent examination produces a better way to assure nutritious food than any idea here, that better way should replace it. The goal is the assurance, not any particular design.
+
+The Meal Standard is one experimental idea among others. You can examine or support the food-assurance principle without adopting the Meal Standard.
+
+## How to engage
+
+- Share ideas at the Student Circle: https://circle.theperthagreement.com
+- Contact: contact@theperthagreement.com
+- Taking part is not endorsement. Questions, criticism, and alternative approaches are welcome.
